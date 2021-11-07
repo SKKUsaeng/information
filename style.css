@@ -1,0 +1,20 @@
+html {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+ul {
+    border: 1px solid black;
+    margin: auto;
+    display: table;
+}
